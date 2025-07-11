@@ -1,6 +1,6 @@
-# Basketball Feedback Generator
+# Swimming Start Feeback Generator
 
-A real-time basketball shot analysis tool that uses computer vision and AI to provide instant feedback on shooting form.
+A swimming analysis tool that uses computer vision and AI to provide instant feedback on start form.
 
 
 ## How to Run the Project
