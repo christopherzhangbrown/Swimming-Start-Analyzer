@@ -7,8 +7,8 @@ A swimming analysis tool that uses computer vision and AI to provide instant fee
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/rohtumm/Basketball-Feedback-Generator.git
-   cd Basketball-Feedback-Generator
+   git clone https://github.com/christopherzhangbrown/Swimming-Start-Analyzer.git
+   cd Swimming-Start-Analyzer
    ```
 
 2. **Create a virtual environment**
