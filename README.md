@@ -38,7 +38,7 @@ A swimming analysis tool that uses computer vision and AI to provide instant fee
 
 2. **Run the application**
    ```bash
-   python feedback_generator.py
+   python swimming_start_analyzer.py
    ```
 
 3. **Use the application**

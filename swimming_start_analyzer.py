@@ -18,6 +18,8 @@ yolo_model = YOLO("yolov8n.pt")
 
 def detect_person(frame):
     results = yolo_model.predict(source=frame, verbose=False)[0]
+    if results.boxes is None:
+        return None
     for box in results.boxes:
         cls_id = int(box.cls[0])
         label = results.names[cls_id]
